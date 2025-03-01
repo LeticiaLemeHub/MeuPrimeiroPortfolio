@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
 
+:root {
+    --cor-primaria: #d9ceb2;
+    --cor-secundaria: #7A6A53;
+    --cor-terciaria: #33646F;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +14,7 @@
 body {
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color: #D9CEB2;
+    background-color: #d9ceb2;
     color: #33646F;
 }
 
