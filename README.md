@@ -1,23 +1,20 @@
-**Meu Portfólio Pessoal** 👩‍💻
-Bem-vindo(a) ao meu portfólio pessoal! Aqui você encontrará informações sobre mim, minha jornada profissional, projetos e habilidades em desenvolvimento Front-end.
+# Meu Portfólio Pessoal 👩‍💻
 
-📌**Sobre o Projeto**
-Este portfólio foi desenvolvido para mostrar minha evolução como desenvolvedora Front-end. Ele inclui:
+Bem-vindo(a) ao meu portfólio pessoal! Aqui você encontrará informações sobre mim, minha jornada profissional, projetos e habilidades em desenvolvimento **Front-end**.
 
-**Página inicial:** Apresentação breve e links para minhas redes sociais.
+## 📌 Sobre o Projeto
 
-**Sobre mim:** Detalhes sobre minha trajetória profissional, experiências e formação.
+Este portfólio foi desenvolvido para mostrar minha evolução como desenvolvedora **Front-end**. Ele inclui:
 
-**Currículo:** Informações sobre minhas habilidades, certificações e experiências profissionais.
+- **Página inicial:** Apresentação breve e links para minhas redes sociais.
+- **Sobre mim:** Detalhes sobre minha trajetória profissional, experiências e formação.
+- **Currículo:** Informações sobre minhas habilidades, certificações e experiências profissionais.
 
-O design é responsivo, garantindo uma boa experiência em dispositivos móveis e desktops.
+O design é **responsivo**, garantindo uma boa experiência em dispositivos móveis e desktops.
 
-🛠️ **Tecnologias Utilizadas**
-**HTML5:** Estruturação do conteúdo.
+## 🛠️ Tecnologias Utilizadas
 
-**CSS3:** Estilização e design responsivo.
-
-**Google Fonts:** Utilização das fontes Krona One e Montserrat.
-
-**Favicon:** Ícone personalizado para a aba do navegador.
-
+- **HTML5:** Estruturação do conteúdo.
+- **CSS3:** Estilização e design responsivo.
+- **Google Fonts:** Utilização das fontes *Krona One* e *Montserrat*.
+- **Favicon:** Ícone personalizado para a aba do navegador.
